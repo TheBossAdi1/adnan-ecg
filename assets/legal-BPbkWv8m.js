@@ -1,1 +1,0 @@
-import{a as e,d as t}from"./index-L-MR3Wkj.js";var n=t(`arrow-left`,[[`path`,{d:`m12 19-7-7 7-7`,key:`1l729n`}],[`path`,{d:`M19 12H5`,key:`x3x0zl`}]]),r={privacy:e(`Informativa sulla privacy`,`Privacy Policy`),terms:e(`Termini di servizio`,`Terms of Service`)};export{n as i,r as t};
